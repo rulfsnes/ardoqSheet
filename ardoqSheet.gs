@@ -1,3 +1,7 @@
+//Contains functions for import ardoq reports
+
+
+
 //getArdoqReport
 function getArdoqGraphReport(orgURL, reportID, token) {
   
